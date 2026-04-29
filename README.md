@@ -2,6 +2,8 @@
 
 Thème Gitea épuré, palette neutre, disponible en variante claire et sombre.
 
+![preview](/assets/preview.jpg)
+
 ## Variantes
 
 | Thème | Style |
