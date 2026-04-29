@@ -1,6 +1,6 @@
 # Octo Gitea
 
-Thème Gitea épuré, palette neutre, disponible en variante claire et sombre.
+Thème Gitea épuré, disponible en variante claire et sombre.
 
 ![preview](/assets/preview.jpg)
 
