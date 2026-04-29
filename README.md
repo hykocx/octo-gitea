@@ -25,6 +25,7 @@ Thème Gitea épuré, palette neutre, disponible en variante claire et sombre.
    ```ini
    [ui]
    THEMES = gitea-auto, gitea-light, gitea-dark, octo-auto, octo-light, octo-dark
+   DEFAULT_THEME = octo-auto
    ```
 
    Les noms à ajouter sont **sans** le préfixe `theme-` ni le suffixe `.css`.
